@@ -8,5 +8,5 @@ Uma calculadora simples em **Python 3.10.8**
 ![PATH](https://cdn.discordapp.com/attachments/911807496048508958/1034183286240596069/68747470733a2f2f646f63732e707974686f6e2e6f72672f332f5f696d616765732f77696e5f696e7374616c6c65722e706e67.png)
 
 - Vá em [Releases](https://github.com/insxnsive/calculadora-python/releases) e baixe o **.zip**
-- Após feito, extrair o .zip e abrir o **start.bat**
+- Após feito, extrair o **.zip** e abrir o **start.bat**
 
